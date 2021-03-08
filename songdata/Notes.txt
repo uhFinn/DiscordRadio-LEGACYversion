@@ -1,0 +1,6 @@
+Important To Note
+
+Radio will cycle through charts.json,
+lofi.json will be called upon automated daily-bidaily events where it will directly throw pull requests to that database
+
+charts.json by default doesnt hold string as the server.js parses data to that on boot which is updated algorithmically every hour

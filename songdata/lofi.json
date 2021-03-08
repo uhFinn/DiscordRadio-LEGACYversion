@@ -1,0 +1,30 @@
+{
+    "full": ["one", "two", "three", "four", "five", "six", "seven", "eight","nine","ten","eleven","twelve","thirteen","fourteen","fifteen","sixteen","seventeen","eighteen","nineteen","twenty","twenty-one","twenty-two","twenty-three","twenty-four","twenty-five"],
+    "list": {
+        "one": ["https://www.youtube.com/watch?v=-wWFwvFWJ5o", "656", "Cloudchord & Headphone Activist - Connecting Borders"],
+        "two": ["https://www.youtube.com/watch?v=j2zxjRx-M1A", "1051", "Culpeo - Say When [lofi hiphop]"],
+        "three": ["https://www.youtube.com/watch?v=eXP6dcJM9j0", "631", "Canopy [lofi / ambient / chill mix]"],
+        "four": ["https://www.youtube.com/watch?v=Dmzi6fPfGuA", "935", "Lifted Spirits [lofi hip hop/chill beats]"],
+        "five": ["https://www.youtube.com/watch?v=GYD7ecTEIBs", "488", "Summer Adventure ☀️ - [lofi hip hop/chill beats]"],
+        "six": ["https://www.youtube.com/watch?v=vVT4a-jOU9s", "604", "Warm Summer Nights [Lofi / Relaxing / Chill Beats]"],
+        "seven": ["https://www.youtube.com/watch?v=gV91yfDfPL8", "1163", "the silent forest 🌲 [lofi / ambient piano / chill mix]"],
+        "eight": ["https://www.youtube.com/watch?v=3Wm9sjGVBVA", "164", "sagun - i miss the old you (feat. Kali Claire)"],
+        "nine": ["https://www.youtube.com/watch?v=hkpZR6f-Z-I", "121", "mell-ø & Pointy Features - Branches"],
+        "ten": ["https://www.youtube.com/watch?v=hbRcnePXPwc", "117", "i stop breathing when you smile"],
+        "eleven": ["https://www.youtube.com/watch?v=Le9AnS-V1Q8", "170", "i guess i was nothing to you"],
+        "twelve": ["https://www.youtube.com/watch?v=g4_FixM5oa0", "239", "WYS - Satellite"],
+        "thirteen": ["https://www.youtube.com/watch?v=w0Y_wApPo8s", "214", "Hope You Stay 💔"],
+        "fourteen": ["https://www.youtube.com/watch?v=N-tbyO5cLFg", "111", "Winter Rain"],
+        "fifteen": ["https://www.youtube.com/watch?v=fyFGVzcHtKw", "150", "SEA - i get you (feat. Kate Corbett)"],
+        "sixteen": ["https://www.youtube.com/watch?v=0dTETs_wWxQ", "202", "Oribu - Come to Stay"],
+        "seventeen": ["https://www.youtube.com/watch?v=_3TmRgooK-w", "163", "niquo - To Love"],
+        "eighteen": ["https://www.youtube.com/watch?v=1cFNB5aQ03A", "183", "G Mills & Kyle McEvoy - Haze"],
+        "nineteen": ["https://www.youtube.com/watch?v=enB2gG2jIVQ", "197", "Kyle McEvoy - Take This With You"],
+        "twenty": ["https://www.youtube.com/watch?v=srIZNr25LQc", "153", "middle school - In The Morning (When You Wake Up)"],
+        "twenty-one": ["https://www.youtube.com/watch?v=sE6rVhcB4P4", "146", "nekoi - glass"],
+        "twenty-two": ["https://www.youtube.com/watch?v=sE6rVhcB4P4", "146", "nekoi - glass"],
+        "twenty-three": ["https://www.youtube.com/watch?v=g-FV0t28d8Y", "125", "Zeeky Beats - Follow Her"],
+        "twenty-four": ["https://www.youtube.com/watch?v=R9Nwy3P6z9s", "622", "aimlessly wondering - a chill lofi mix"],
+        "twenty-five": ["https://www.youtube.com/watch?v=3ubUGdr_hq0", "528", "Sunset Walk / lofi hip hop mix"]
+    }
+}
